@@ -14,6 +14,7 @@ spring:
         # system.out 으로 출력
 #        show_sql: true
         format_sql: true
+        use_sql_comments: true
 
 logging:
   level:
